@@ -360,7 +360,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Diamond Codes ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`CHICAGO | Music 2 `)//حقوق دايموند كودز
+client.user.setGame(`Chicago | Music 2 `)//حقوق دايموند كودز
 client.user.setStatus("online")
 });
 
